@@ -67,3 +67,5 @@ Projeto desenvolvido por alunos do curso Desenvolvedor Full Stack do Senac.
 ---
 
 Obrigado por conhecer o projeto **Patas do Amanhã**! Vamos juntos transformar vidas e promover um futuro melhor para os animais. 🐾❤️
+
+Desenvolvido com 💚 por [YusukyOficial](https://github.com/YusukyOficial) / [Tarumaoficial](https://github.com/tarumaoficial)) / [FeearkOficial](https://github.com/FeearkOficial) / [Filiple15](https://github.com/Filiple15)
